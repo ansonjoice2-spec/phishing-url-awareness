@@ -82,7 +82,8 @@ The tool was evaluated against the standardized benchmark test cases:
 
 Terminal run demonstration:
 
-Test suite evidence:
+Test suite evidence: it is stored in test_result.png file in screenshot section
+Sample run evidance: it is stored in sample_run.png file in screenshot section 
 
 ## Improvements
 
